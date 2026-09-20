@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'Jinasena : MasterData : MRP',
-    'version': '17.0.0.0.1',
+    'version': '17.0.0.0.2',
     'summary': 'Master-data extracted from CDB for MRP domain.',
     'description': 'Extracted from Clear-DB. Test-env master data. Edit the CSVs in data/ to add/remove rows before install.',
     'author': 'Jinasena Agricultural Machinery (Pvt) Ltd.',
@@ -12,9 +12,7 @@
         'Jinasena_MasterData_Stock',
     ],
     'data': [
-        'data/mrp_workcenter.csv',
         'data/mrp_bom.csv',
-        'data/x_work_center_costing.csv',
     ],
     'installable': True,
     'auto_install': False,
