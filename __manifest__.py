@@ -12,7 +12,7 @@
         'Jinasena_MasterData_Stock',
     ],
     'data': [
-        'data/mrp_bom.csv',
+        'data/mrp.bom.csv',
     ],
     'installable': True,
     'auto_install': False,
