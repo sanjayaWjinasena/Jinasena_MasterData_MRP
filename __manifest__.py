@@ -12,7 +12,6 @@
         'Jinasena_MasterData_Stock',
     ],
     'data': [
-        'data/mrp.bom.csv',
         'data/x_work_center_costing.csv',
     ],
     'installable': True,
