@@ -1,2 +1,2 @@
-id,x_name,x_active,x_studio_sequence
-work_center_costing_work_centre_costing_details,Work Centre Costing Details,1,10
+id,x_name,x_active,x_studio_sequence,x_studio_general_cost_debit_account/id,x_studio_overhead_cost_credit_account/id,x_studio_overhead_cost_debit_account/id
+work_center_costing_work_centre_costing_details,Work Centre Costing Details,1,10,__export__.account_account_41_5e097114,__export__.account_account_40_1a659ad2,__export__.account_account_36_575ae1a5
