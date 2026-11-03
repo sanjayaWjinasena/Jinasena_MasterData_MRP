@@ -1,0 +1,5 @@
+id,bom_id/id,product_id,product_qty,product_uom_id/id,sequence,manual_consumption,cost_share
+mrp_bom_line_id_27697,Jinasena_MasterData_MRP.mrp_bom_id_8392,10FW 006,8.0,uom.product_uom_unit,1,,0.0
+mrp_bom_line_id_27698,Jinasena_MasterData_MRP.mrp_bom_id_8393,07MT 012,0.153,uom.product_uom_meter,1,,0.0
+mrp_bom_line_id_27699,Jinasena_MasterData_MRP.mrp_bom_id_8394,10FW 006,10.0,uom.product_uom_unit,1,,0.0
+mrp_bom_line_id_27700,Jinasena_MasterData_MRP.mrp_bom_id_8399,10FW 006,10.0,uom.product_uom_unit,1,,0.0

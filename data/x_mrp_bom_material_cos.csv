@@ -1,0 +1,5 @@
+id,x_name,x_active,x_studio_sequence,x_studio_bom_material_cost_ids/id,x_studio_bom_line_id/id,x_studio_line_id/id,x_studio_product_id,x_studio_planned_qty,x_studio_actual_qty,x_studio_cost,x_studio_total_cost,x_studio_total_actual_cost,x_studio_currency_id/id,x_studio_uom_id/id
+mrp_bom_material_cos_id_1,,1,10,Jinasena_MasterData_MRP.mrp_bom_id_8392,,Jinasena_MasterData_MRP.mrp_bom_line_id_27697,10FW 006,8.0,0.0,0.0,0.0,0.0,base.LKR,uom.product_uom_unit
+mrp_bom_material_cos_id_15,,1,10,Jinasena_MasterData_MRP.mrp_bom_id_8393,,Jinasena_MasterData_MRP.mrp_bom_line_id_27698,07MT 012,0.153,0.0,0.0,0.0,0.0,base.LKR,uom.product_uom_meter
+mrp_bom_material_cos_id_32,,1,10,Jinasena_MasterData_MRP.mrp_bom_id_8394,,Jinasena_MasterData_MRP.mrp_bom_line_id_27699,10FW 006,10.0,0.0,0.0,0.0,0.0,base.LKR,uom.product_uom_unit
+mrp_bom_material_cos_id_33,,1,10,Jinasena_MasterData_MRP.mrp_bom_id_8399,,Jinasena_MasterData_MRP.mrp_bom_line_id_27700,10FW 006,10.0,0.0,0.0,0.0,0.0,base.LKR,uom.product_uom_unit
