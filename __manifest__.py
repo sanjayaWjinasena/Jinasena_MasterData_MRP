@@ -13,10 +13,10 @@
         'Jinasena_KnownGood_Data',
     ],
     'data': [
-        'data/x_work_center_costing.csv',
+        'data/work_center_costing.csv',
         'data/mrp.bom.csv',
         'data/mrp.bom.line.csv',
-        'data/x_mrp_bom_material_cos.csv',
+        'data/mrp_bom_material_cos.csv',
     ],
     'installable': True,
     'auto_install': False,

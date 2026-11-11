@@ -1,4 +1,4 @@
-id,name,active,sequence,x_studio_bom_material_cost_ids/id,x_studio_bom_line_id/id,x_studio_line_id/id,x_studio_product_id,x_studio_planned_qty,x_studio_actual_qty,x_studio_cost,x_studio_total_cost,x_studio_total_actual_cost,x_studio_currency_id/id,x_studio_uom_id/id
+id,name,active,sequence,bom_material_cost_ids/id,bom_line_id/id,line_id/id,product_id,planned_qty,actual_qty,cost,total_cost,total_actual_cost,accounting_currency_id/id,uom_id/id
 mrp_bom_material_cos_id_48019_48019,,1,10,Jinasena_MasterData_MRP.mrp_bom_id_8336,,Jinasena_MasterData_MRP.mrp_bom_line_id_27374_27374,10FW 006,8.0,0.0,0.0,0.0,0.0,base.LKR,uom.product_uom_unit
 mrp_bom_material_cos_id_48020_48020,,1,10,Jinasena_MasterData_MRP.mrp_bom_id_8336,,Jinasena_MasterData_MRP.mrp_bom_line_id_27375_27375,10SB 017,2.0,0.0,0.0,0.0,0.0,base.LKR,uom.product_uom_unit
 mrp_bom_material_cos_id_48021_48021,,1,10,Jinasena_MasterData_MRP.mrp_bom_id_8336,,Jinasena_MasterData_MRP.mrp_bom_line_id_27376_27376,10GN 021,26.0,0.0,0.0,0.0,0.0,base.LKR,uom.product_uom_unit
